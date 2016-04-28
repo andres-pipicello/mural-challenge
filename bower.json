@@ -1,0 +1,15 @@
+{
+  "name": "pipi-mural-challenge",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Andrés Pipicello <apipicello@despegar.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bacon": "^0.7.84",
+    "jquery": "^2.2.3",
+    "socket.io-client": "^1.4.5"
+  }
+}
